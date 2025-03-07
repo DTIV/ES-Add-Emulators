@@ -8,6 +8,7 @@
 
 #### Filepath for Bios:
 `Emulation\bios\win98`
+
 ( Location for Windows installation disk image and .bat file provided)
 
 Follow this guide for installing Windows 98 in DOSBOX-X on your PC:
@@ -23,7 +24,7 @@ The win98.conf file can be created with the Configuration Tool or by copying and
 
 To add Windows 98 to Emulation Station, edit the es_systems.xml files provided with Emulation Station, located at: `C:\Users\USER\EmuDeck\EmulationStation-DE\ES-DE\custom_systems`
 
-`
+```
 <system>
     <name>win98</name>
     <fullname>Windows 98</fullname>
@@ -33,7 +34,7 @@ To add Windows 98 to Emulation Station, edit the es_systems.xml files provided w
     <platform>pc</platform>
     <theme>win98</theme>
 </system>
-`
+```
 an example of the es_systems.xml file is available in this repo.
 
 Create or copy the win98.bat file provided and place in the win98 bios folder with the installation disk image.
