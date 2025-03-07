@@ -18,7 +18,7 @@ Installation Method 2:
 
 #### DO NOT ADD ANY CODE IN THE [autoexec] SECTION OF YOUR CONFIG FILE.
 
-Once windows is installed and booting correctly, you should have a <b>hdd.img<b> and <b>win98.conf<b> located in DOSBOX-X folder.
+Once windows is installed and booting correctly, you should have a <b>hdd.img</b> and <b>win98.conf</b> located in DOSBOX-X folder.
 
 The win98.conf file can be created with the Configuration Tool or by copying and renaming the DosBox-x.conf file. Edit as desired. I have provided a complete config file to copy.
 
