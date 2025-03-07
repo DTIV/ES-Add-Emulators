@@ -22,7 +22,7 @@ Once windows is installed and booting correctly, you should have a <b>hdd.img</b
 
 The win98.conf file can be created with the Configuration Tool or by copying and renaming the DosBox-x.conf file. Edit as desired. I have provided a complete config file to copy.
 
-To add Windows 98 to Emulation Station, edit the es_systems.xml files provided with Emulation Station, located at: `C:\Users\USER\EmuDeck\EmulationStation-DE\ES-DE\custom_systems`
+To add Windows 98 to Emulation Station, edit the <b>es_systems.xml</b> files provided with Emulation Station, located at: `C:\Users\USER\EmuDeck\EmulationStation-DE\ES-DE\custom_systems`
 
 ```
 <system>
