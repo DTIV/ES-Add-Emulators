@@ -11,14 +11,14 @@
 
 ( Location for Windows installation disk image and .bat file provided)
 
-Follow this guide for installing Windows 98 in DOSBOX-X on your PC:
+#### Follow this guide for installing Windows 98 in DOSBOX-X on your PC:
 
 Installation Method 2:
 [Installing Microsoft Windows 98 in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98)
 
 #### DO NOT ADD ANY CODE IN THE [autoexec] SECTION OF YOUR CONFIG FILE.
 
-Once windows is installed and booting correctly, you should have a hdd.img and win98.conf located in DOSBOX-X folder.
+Once windows is installed and booting correctly, you should have a <b>hdd.img<b> and <b>win98.conf<b> located in DOSBOX-X folder.
 
 The win98.conf file can be created with the Configuration Tool or by copying and renaming the DosBox-x.conf file. Edit as desired. I have provided a complete config file to copy.
 
